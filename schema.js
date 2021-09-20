@@ -9,7 +9,7 @@ const schema = buildSchema(`
         email: String
         teachingAssists: [TeachAssist]
     }
-
+// sadfasdfdasfsadf
     type TeachAssist{
         firstName: String
         lastName: String
