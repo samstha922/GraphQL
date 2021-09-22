@@ -48,4 +48,6 @@ const schema = buildSchema(`
     }
 `)
 
-export default schema
+export default schema{
+    console.log('sampresh');
+}

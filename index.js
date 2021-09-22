@@ -5,3 +5,6 @@ app.get('/', (req,res)=>{
     res.send('UP and running with gql')
 })
 app.listen(8082,()=> console.log('running at 8082')); 
+
+
+console.log('test');
